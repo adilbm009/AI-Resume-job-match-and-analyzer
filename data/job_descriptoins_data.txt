@@ -1,0 +1,139 @@
+Title:: Gen Ai Data scientist -- US Client (Analytics)
+Job Description:: 2+ years exp on Python, ML and Gen Ai model development. Interact with the client to understand their requirements and communicate / brainstorm solutions, model Development: Design, build, and implement credit risk model.
+Contribute to how analytical approach is structured for specification of analysis
+Contribute insights from conclusions of analysis that integrate with initial hypothesis and business objective. Independently address complex problems
+3+ years exp on ML/Python (predictive modelling).
+Design, implement, test, deploy and maintain innovative data and machine learning solutions to accelerate our business.
+Create experiments and prototype implementations of new learning algorithms and prediction techniques
+Collaborate with product managers, and stockholders to design and implement software solutions for science problems
+Use machine learning best practices to ensure a high standard of quality for all of the team deliverables
+Has experience working on unstructured data ( text ): Text cleaning, TFIDF, text vectorization
+Hands-on experience with IFRS 9 models and regulations.
+Data Analysis: Analyze large datasets to identify trends and risk factors, ensuring data quality and integrity.
+Statistical Analysis: Utilize advanced statistical methods to build robust models, leveraging expertise in R programming.
+Collaboration: Work closely with data scientists, business analysts, and other stakeholders to align models with business needs.
+Continuous Improvement: Stay updated with the latest methodologies and tools in credit risk modeling and R programming.
+Link:: https://www.naukri.com/job-listings-gen-ai-data-scientist-us-client-analytics-aspyra-hr-services-pune-gurugram-bengaluru-3-to-7-years-110226016159?src=jobsearchDesk&sid=17713331764496522&xp=1&px=1
+
+---
+
+Title:: Gen AI Engineer
+Job Description:: Collect and prepare data for training and evaluating multimodal foundation models. This may involve cleaning and processing text data or creating synthetic data.
+Develop and optimize large-scale language models like GANs (Generative Adversarial Networks) and VAEs (Variational Autoencoders)
+Work on tasks involving language modeling, text generation, understanding, and contextual comprehension.
+Regularly review and fine-tune Large Language models to ensure maximum accuracy and relevance for custom datasets.
+Build and deploy AI applications on cloud platforms – any hyperscaler Azure, GCP or AWS.
+Integrate AI models with our company's data to enhance and augment existing applications.
+
+Role & Responsibility
+
+Handle data preprocessing, augmentation, and generation of synthetic data.
+Design and develop backend services using Python or .NET to support OpenAI-powered solutions (or any other LLM solution)
+Develop and Maintaining AI Pipelines
+Work with custom datasets, utilizing techniques like chunking and embeddings, to train and fine-tune models.
+Integrate Azure cognitive services (or equivalent platform services) to extend functionality and improve AI solutions
+Collaborate with cross-functional teams to ensure smooth deployment and integration of AI solutions.
+Ensure the robustness, efficiency, and scalability of AI systems.
+Stay updated with the latest advancements in AI and machine learning technologies.
+
+Skills & Experience
+
+       Strong foundation in machine learning, deep learning, and computer science.
+
+       Expertise in generative AI models and techniques (e.g., GANs, VAEs, Transformers).
+
+       Experience with natural language processing (NLP) and computer vision is a plus.
+
+       Ability to work independently and as part of a team.
+
+       Knowledge of advanced programming like Python, and especially AI-centric libraries like TensorFlow, PyTorch, and Keras. This includes the ability to implement and manipulate complex algorithms fundamental to developing generative AI models.
+
+       Knowledge of Natural language processing (NLP) for text generation projects like text parsing, sentiment analysis, and the use of transformers like GPT (generative pre-trained transformer) models.
+
+       Experience in Data management, including data pre-processing, augmentation, and generation of synthetic data. This involves cleaning, labeling, and augmenting data to train and improve AI models.
+
+       Experience in developing and deploying AI models in production environments.
+
+Knowledge of cloud services (AWS, Azure, GCP) and understanding of containerization technologies like Docker and orchestration tools like Kubernetes  for deploying , managing and scaling AI solutions
+Should be able to bring new ideas and innovative solutions to our clients
+Link:: https://www.naukri.com/job-listings-gen-ai-engineer-cognizant-gurugram-6-to-8-years-110226040258?src=jobsearchDesk&sid=17713331764496522&xp=2&px=1
+
+---
+
+Title:: GEN AI/ML Engineer
+Job Description:: AI/ML Engineer
+Location :- PAN India
+Experience :-4-6 years
+Notice Period:-0-30 Days
+Choosing Capgemini means choosing a place where you??ll be empowered to shape your career, supported by a collaborative global community, and inspired to reimagine what??s possible. Join us in helping leading Consumer Products and Retail Services (CPRS) organizations unlock the value of technology and drive scalable, sustainable growth.
+In this role, you will:
+Solid Understanding of Langgraph/langchain/ and langsmith - occasionally used
+MCP server deployment and integration
+Agentic Framework understanding and hands on actual deployment
+Integration with API etc
+RAG and vector DB ( pinecone etc)
+Python- strong hands in python.
+Hands on any cloud: AWS/GCP/Azure (any one)
+AWS strands
+Your Profile
+A skilled AI/LLM & Agentic Systems Engineer with hands??on experience in building, deploying, and integrating Agentic Frameworks using LangGraph, LangChain, and LangSmith. Proficient in MCP server deployment, API integrations, and developing intelligent workflows with multi??agent orchestration.
+Strong expertise in Retrieval??Augmented Generation (RAG), Vector Databases (e.g., Pinecone), and production??grade Python for AI application development. Experienced working with at least one major cloud platform (AWS GCP Azure) and familiar with AWS Bedrock (Strands?) services related to GenAI workloads.
+Link:: https://www.naukri.com/job-listings-gen-ai-ml-engineer-capgemini-technology-services-india-limited-gurugram-4-to-6-years-160226919809?src=jobsearchDesk&sid=17713331764496522&xp=4&px=1
+
+---
+
+Title:: Data Scientist - Gen AI
+Job Description:: Key Responsibilities:
+
+Design and build Generative AI solutions using Large Language Models (LLMs) for business problems across domains like customer service, document automation, summarization, and knowledge retrieval.
+Fine-tune or adapt foundation models using domain-specific data.
+Implement RAG pipelines, embedding models, vector databases (e.g., FAISS, Pinecone, ChromaDB).
+Collaborate with data engineers, MLOps, and product teams to build end-to-end AI applications and APIs.
+Develop custom prompts and prompt chains using tools like LangChain, LlamaIndex, PromptFlow, or custom frameworks.
+Evaluate model performance, mitigate bias, and optimize accuracy, latency, and cost.
+Stay up to date with the latest trends in LLMs, transformers, and GenAI architecture.
+Required Skills:
+
+3+ years of experience in Data Science / ML, with 1+ year hands-on in LLMs / GenAI projects.
+Strong Python programming skills, especially in libraries such as Transformers, LangChain, scikit-learn, PyTorch, or TensorFlow.
+Experience with OpenAI (GPT-4), Claude, Mistral, LLaMA, or similar models.
+Knowledge of vector search, embedding models (e.g., BERT, Sentence Transformers), and semantic search techniques.
+Ability to build scalable AI workflows and deploy them via APIs or web apps (e.g., FastAPI, Streamlit, Flask).
+Familiarity with cloud platforms (AWS/GCP/Azure) and MLOps best practices.
+Excellent communication skills with the ability to translate technical solutions into business impact.
+Link::https://www.naukri.com/job-listings-data-scientist-gen-ai-exl-noida-pune-gurugram-3-to-8-years-160226019414?src=jobsearchDesk&sid=17713331764496522&xp=6&px=1
+
+---
+
+Title:: Data Scientist
+Job Description:: Role & responsibilities
+
+
+Lead the design, development, and deployment of AI/ML solutions that drive business impact at scale.
+
+
+Responsibilities
+
+
+Build, train, and deploy ML/DL models for prediction, recommendation, and automation
+Translate business problems into data science solutions
+Own end-to-end model lifecycle: data prep modeling validation production
+Collaborate with Product, Engineering, and Stakeholders
+Ensure model performance, scalability, and explainability
+Mentor junior data scientists and set best practices
+
+Tech Stack
+
+
+Languages: Python, SQL
+ML/DL: Scikit-learn, TensorFlow, PyTorch, XGBoost
+AI/GenAI: LLMs, NLP, embeddings, prompt engineering
+Data: Pandas, NumPy, Spark
+MLOps: MLflow, Docker, Kubernetes, CI/CD
+Cloud: AWS / Azure / GCP
+Databases: PostgreSQL, Databricks/Snowflake, BigQuery
+Azure ML: Azure Machine Learning, Azure Databricks, Azure Data Factory, AKS
+AWS ML: SageMaker, Lambda, EC2, EKS, S3, Glue
+MLOps: MLflow, Docker, Kubernetes, CI/CD
+
+Link::https://www.naukri.com/job-listings-data-scientist-aspire-systems-kochi-chennai-bengaluru-5-to-10-years-040226006534?src=jobpromo-showcase
